@@ -35,31 +35,31 @@
 
 **Cómo**, **cuándo**, **dónde** adverbios interrogativos: 
 
-*¿Cómo te sientes?
-*¿Cuándo llegó?
-*¿Dónde quedó?
+* ¿Cómo te sientes?
+* ¿Cuándo llegó?
+* ¿Dónde quedó?
 
-*Ya me dijo cómo lo quiere (equivale a *ya me lo dijo*).
-*No he decidido cómo ordenarlo (equivale a *no lo he decidido*).
-*Inmediatamente supe cómo cargar todo de una vez (equivale a *inmediatamente lo supe*).
-*Ni siquiera pensaré cómo lograrlo (equivale a *ni siquiera lo pensaré*).
-*Puedo distinguir cuándo una persona está triste o alegre (equivale a *puedo distinguirlo*).
-*Sé cuándo un vaso está medio lleno (equivale a *lo sé*).
-*Entonces tendremos claro dónde ubicar cada elemento (equivale a *lo tendremos claro*).
+* Ya me dijo cómo lo quiere (equivale a *ya me lo dijo*).
+* No he decidido cómo ordenarlo (equivale a *no lo he decidido*).
+* Inmediatamente supe cómo cargar todo de una vez (equivale a *inmediatamente lo supe*).
+* Ni siquiera pensaré cómo lograrlo (equivale a *ni siquiera lo pensaré*).
+* Puedo distinguir cuándo una persona está triste o alegre (equivale a *puedo distinguirlo*).
+* Sé cuándo un vaso está medio lleno (equivale a *lo sé*).
+* Entonces tendremos claro dónde ubicar cada elemento (equivale a *lo tendremos claro*).
 
 **Como** adverbio de modo y comparativo, conjunción comparativa; **cuando**, conjunción temporal; *donde*, conjunción locativa: 
 
-*Como que ya se está haciendo tarde. 
-*Los tratamos como siempre (equivale a los tratamos así).
-*Llegamos como pudimos (equivale a llegamos así).
-*Todo resultó como esperábamos (equivale a resultó así)
-*Empezamos como a las ocho (equivale a empezamos entonces).
-*Salió “como alma que lleva el diablo” (equivale a salió así).
-*Es tan alto como el edificio de enfrente (establece una comparación).
-*Vive como rey.
-*Blanco como la nieve.
-*Lo sabremos cuando llegue (equivale a lo sabremos entonces)
-*Está donde lo pusiste (equivale a está allí).
+* Como que ya se está haciendo tarde. 
+* Los tratamos como siempre (equivale a los tratamos así).
+* Llegamos como pudimos (equivale a llegamos así).
+* Todo resultó como esperábamos (equivale a resultó así)
+* Empezamos como a las ocho (equivale a empezamos entonces).
+* Salió “como alma que lleva el diablo” (equivale a salió así).
+* Es tan alto como el edificio de enfrente (establece una comparación).
+* Vive como rey.
+* Blanco como la nieve.
+* Lo sabremos cuando llegue (equivale a lo sabremos entonces)
+* Está donde lo pusiste (equivale a está allí).
 
 
 ###Acentuación de formas enfáticas 
