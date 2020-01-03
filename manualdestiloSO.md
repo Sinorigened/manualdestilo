@@ -1,6 +1,6 @@
-##Palabras de acentuación dudosa 
+## Palabras de acentuación dudosa 
 
-###Porqué, por qué, porque, y por que 
+### Porqué, por qué, porque, y por que 
 
 **Porqué** cuando es sustantivo y significa causa o motivo.
 *El porqué de las cosas.*
@@ -15,7 +15,7 @@
 **Por que** cuando es preposición más pronombre, se escriben los elementos por separado y sin acento.
 *El motivo por que se enfadó fue que llegaste tarde.* <!-- En este uso “por que” equivale a  “por el cual”. -->
 
-###Conqué, con qué, conque, con que
+### Conqué, con qué, conque, con que
 
 **Conqué** sustantivo masculino, significa condición o motivos. 
 *Éstos no son sino los conqués de la historia.*
@@ -31,7 +31,7 @@
 **Con que** preposición y relativo que equivale a *con el que*, *con la que*, *con el cual*, *con la cual* y sus plurales.
 *Éste es el coche con que practico.*
 
-###Cómo y como, cuándo y cuando, dónde y donde
+### Cómo y como, cuándo y cuando, dónde y donde
 
 **Cómo**, **cuándo**, **dónde** adverbios interrogativos: 
 
@@ -62,7 +62,7 @@
 * Está donde lo pusiste (equivale a está allí).
 
 
-###Acentuación de formas enfáticas 
+### Acentuación de formas enfáticas 
 
 Cuando para hacer énfasis en un término se recurra a la multiplicación de alguna de sus vocales y esta vocal esté acentuada, se dejará la tilde solamente en la primera de ellas.
 *¿Quéeeee?*
@@ -123,7 +123,7 @@ En cuanto a los pronombres y adjetivos demostrativos la RAE menciona que las pos
 Las siguientes palabras graves: periodo, cardiaco, alveolo, austriaco, demoniaco, metamorfosis, etiope, olimpiada, policiaco, maniaco, gladiolo, biosfera, hidrosfera, etcétera. Pero, por ser el uso más extendido, se acepta la forma atmósfera. 
 La acentuación de grafías dobles, como ícono e icono, dínamo y dinamo, se deja a criterio del editor, siempre que se cuide la uniformidad de su escritura en las diversas áreas de publicación.
 
-###Signos de puntuación
+### Signos de puntuación
 
 **Coma**
 
@@ -270,7 +270,7 @@ Se escriben entre comillas los pensamientos y monólogos expresados en cita dire
 
 En narrativa, las comillas se usan en el diálogo para indicar que un personaje está pensando, habla para sí, repite lo que ha dicho o escrito otro personaje, o supone lo que va a decir (discurso indirecto libre). En teatro, este mismo recurso estilístico irá en cursivas. 
 
-—Gato de Cheshire ­—empezó a decir con cierta timidez, pues no estaba segura de que su nombre le gustara; sin embargo, el gato amplió más su sonrisa: “Bueno, parece que le está gustando”, pensó Alicia, y prosiguió…
+—Gato de Cheshire —empezó a decir con cierta timidez, pues no estaba segura de que su nombre le gustara; sin embargo, el gato amplió más su sonrisa: “Bueno, parece que le está gustando”, pensó Alicia, y prosiguió…
 
 Los sobrenombres se escriben entre comillas y con alta inicial en el sustantivo que compone el nombre, el artículo se conserva en minúsculas.
 A Luis lo llamaban “el Puma”.
@@ -383,7 +383,7 @@ La mamá quiere vivir con sus hijos en la Reserva —así les dicen los de la zo
 En las citas se deben usar guiones largos y no comas, para encerrar las acotaciones del autor. 
 Para mí hay indicios notorios —nos dice Carabia— que autorizan a…
 
-###Mayúsculas y minúsculas
+### Mayúsculas y minúsculas
 
 Se acentuarán las vocales mayúsculas que así lo requieran. 
 
@@ -662,7 +662,7 @@ Se escribirá siempre con minúscula:
 	papel maché		papel manila		papel picado
 
 
-###Numeración o guarismos
+### Numeración o guarismos
 
 Del uno al nueve se escriben con letra y del 1o en adelante con dígitos, salvo cuando por criterios didácticos se prefiera usar los dígitos (textos de matemáticas y fechas históricas). 
 
@@ -835,11 +835,11 @@ Se prefiere no castellanizarlas, así que se escribirán de acuerdo con el idiom
 Desataremos los símbolos de dinero (pesos o dólares) dentro del texto.
 
 
-###Lista de unidades de peso y medida
+### Lista de unidades de peso y medida
 
 
 
-###Abreviaturas y siglas
+### Abreviaturas y siglas
 
 En el cuerpo del texto deben evitarse las abreviaturas, pues sólo se utilizarán en las notas y fichas bibliográficas. Sin embargo, hay palabras (como las que indican pesos y medidas) que deben abreviarse en el texto, excepto cuando aparezcan al final de párrafo. Caso especial es el de etcétera, que deberá ir abreviada y siempre entre comas cuando se halle dentro del texto, pero desatada cuando esté al final de párrafo.
 
@@ -859,7 +859,7 @@ No se debe confundir las siglas con los acrónimos que son palabras formadas a p
 *Lista de abreviaturas*
 
 
-###Palabras de dos grafías
+### Palabras de dos grafías
 
 Las divisiones del continente americano se escribirán así en texto corrido y en mapas: América del Sur, América Central y América del Norte. 
 
@@ -914,7 +914,7 @@ Pero:
 ###Palabras de escritura junta y separada
 
 
-###Llamadas
+### Llamadas
 
 Las llamadas, irán siempre después del signo de puntuación, aun cuando vayan acompañadas de guión largo.
 
@@ -937,7 +937,7 @@ ficha de nota al pie: Carlos Pellicer. Antología poética. Col. Popular 95. Mé
 
 ficha de bibliografía: Pellicer, Carlos. Antología poética. Col. Popular 95. México: FCE, 1964.
 
-###Bibliografía y normas de citación
+### Bibliografía y normas de citación
 
 Las normas de estilo bibliográfico son como las de la gramática, las de estilo de redacción o las de tipografía: sirven para facilitar la comunicación entre el autor de un trabajo y sus lectores. Contribuyen a mantener la claridad, la precisión y la integridad del aprovechamiento del material o del conocimiento. 
 
@@ -1155,7 +1155,7 @@ Si para un nombre geográfico existe una forma española, se preferirá ésta: F
 
 Se procurará conservar la grafía original: William Shakespeare y no Guillermo Shakespeare; Antoine de Saint-Exupéry, con el guión y el acento; Edgar Allan Poe y Oscar Wilde sin acento; Karl Marx y Charles Darwin, Friedrich Nietzsche, etcétera.
 
-###TIPOGRAFÍA
+### TIPOGRAFÍA
 
 Cursivas
 
@@ -1169,59 +1169,59 @@ obras de arte			revistas
 películas
 
 Los epígrafes se escribirán en cursivas y las referencias en redondas.
-Somos responsables de todo lo que sucede en este mundo. Con la fuerza de nuestro amor, de nuestra voluntad, podemos cambiar nuestro destino y el de mucha gente.									Paulo Coelho, As Valquirias
+*Somos responsables de todo lo que sucede en este mundo. Con la fuerza de nuestro amor, de nuestra voluntad, podemos cambiar nuestro destino y el de mucha gente.*									Paulo Coelho, As Valquirias
 
 Se escriben en cursiva sólo las onomatopeyas inusitadas o de reciente creación, no las que por el uso han devenido sustantivos.
 
-Cuando el muro cayó se oyó puuum.
+Cuando el muro cayó se oyó *puuum*.
 El tictac del reloj no me dejó dormir. 
-Dijo miau muy quedito.
+Dijo *miau* muy quedito.
 
 Se escribe en cursiva el título de composiciones musicales:
 
-ballets 			comedias		óperas 			oratorios
-sinfonías		conciertos 		sonatas
+*ballets* 			*comedias*		*óperas* 			*oratorios*
+*sinfonías*		*conciertos* 		*sonatas*
 
 Se escribe en cursiva el nombre de barcos, aviones, trenes, satélites, naves y transbordadores espaciales, y submarinos. 
 
-Santa María		Challenger		Titanic
+*Santa María*		*Challenger*		*Titanic*
 
 Pero no se escribe en cursiva el nombre del fabricante, ni el modelo ni la serie a la que pertenecen, ni el nombre de un proyecto espacial.
 
 Boeing 747					proyecto Apolo
 
-Locuciones latinas o nahuas, palabras o frases en cualquier otra lengua (excepto nombres propios que irán en redondas y acentuadas): et al., idem, ibidem, cf., op. cit.; best seller; pizza, hot dog, sushi, etc. Las citas textuales en otro idioma se escriben en redondas, su formación será idéntica a la de cualquier otra transcripción.
+Locuciones latinas o nahuas, palabras o frases en cualquier otra lengua (excepto nombres propios que irán en redondas y acentuadas): *et al.*, *idem*, *ibidem*, *cf.*, *op. cit.*; best seller; pizza, hot dog, sushi, etc. Las citas textuales en otro idioma se escriben en redondas, su formación será idéntica a la de cualquier otra transcripción.
 
 Letras (literales) de fórmulas y expresiones matemáticas.
 
 Se escriben en cursiva las palabras o frases cuyo concepto, uso o alguna otra característica se especifica (metalenguaje), así como las empleadas con sentido irónico o impropio y las referencias al alfabeto. 
 
 Preferimos que se escriba alveolo que alvéolo.
-La letra b se combina con la letra l en blusa. 
+La letra *b* se combina con la letra *l* en blusa. 
 
-Los prefijos, infijos y sufijos se escribirán en cursiva, pues son metalenguaje (inter-, des-, in-, -mente). 
+Los prefijos, infijos y sufijos se escribirán en cursiva, pues son metalenguaje (*inter-*, *des-*, *in-*, *-mente*). 
 		Los diminutivos pueden formarse con los sufijos -ita, -ito.
 
 Pero las letras que denominan notas musicales, con mayúscula redonda. 
 
-El pianista comenzó la pieza con un acorde en C mayor. 
-		Concerto grosso opus 6 núm. 3 en Do menor.
+El pianista comenzó la pieza con un acorde en **C** mayor. 
+		Concerto grosso opus 6 núm. 3 en **Do** menor.
 
 Se escriben en cursiva los nombres científicos de plantas, animales, etc., pero no los nombres de razas de animales. 
 
-Los seres humanos pertenecen al género Homo.
-La infusión hecha con flores de Matricaria chamomilla (“manzanilla”) se toma como digestivo. 
+Los seres humanos pertenecen al género *Homo*.
+La infusión hecha con flores de *Matricaria chamomilla* (“manzanilla”) se toma como digestivo. 
 Me gustaría tener un rotweiller.
 
 Se escribe en cursiva (entre paréntesis y mayúscula inicial) las acotaciones en comedias, diálogos y obras dramáticas, éste es el único caso en el que los paréntesis se dejan en cursivas.
 
-Pablo.—(Riéndose.) Hay que ver el lado simpático de la propuesta. (Mira a Luis, quien parece preocupado.)
+Pablo.—*(Riéndose.)* Hay que ver el lado simpático de la propuesta. *(Mira a Luis, quien parece preocupado.)*
 
 En las obras de teatro se escriben en cursiva las reflexiones y pensamientos del personaje, con los paréntesis en redondas. 
 
-Raúl.—No, no quiero hacerlo (en realidad no tengo valor).
+Raúl.—No, no quiero hacerlo (*en realidad no tengo valor*).
 
-Palabras que se usan como remisiones en índice analítico y onomástico: véase también, véase pág., véase...
+Palabras que se usan como remisiones en índice analítico y onomástico: *véase también*, *véase pág.*, *véase...*
 
 No se escriben en cursivas
 
